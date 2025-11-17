@@ -1,0 +1,32 @@
+# Archivos de sistema / OS
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+.vscode/
+.idea/
+.zed/
+*.log
+
+# Swap / backups
+*~
+*.swp
+*.swo
+
+# Node / npm (por si algún día usas tooling)
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Python (por si haces scripts)
+__pycache__/
+*.pyc
+
+# Archivos generados
+*.zip
+dist/
+build/
+
+# Git
+.gitignore~
