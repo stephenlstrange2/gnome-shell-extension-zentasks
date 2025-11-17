@@ -1,7 +1,9 @@
 {
+  "uuid": "zentasks@kysogroup.com",
   "name": "ZenTasks",
   "description": "A lightweight GNOME Shell panel for tracking Jira tasks, managing Pomodoro sessions, and estimating personal workload in real time.",
-  "uuid": "zentasks@kysogroup.com",
   "shell-version": ["46"],
-  "version": "1.0.0"
+  "url": "https://github.com/stephenlstrange2/gnome-shell-extension-zentasks",
+  "version": 1,
+  "version-name": "1.0"
 }

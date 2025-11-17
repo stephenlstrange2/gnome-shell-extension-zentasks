@@ -1,0 +1,42 @@
+# ========================
+# Zig build / cache output
+# ========================
+
+# build artifacts
+zig-out/
+zig-cache/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ========================
+# Temporary files
+# ========================
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# editor swap / backup
+*~
+*.swp
+*.swo
+*.tmp
+
+# ========================
+# IDE / editor configs
+# ========================
+
+.vscode/
+.idea/
+.zed/
+*.log
+
+# ========================
+# Zig test outputs
+# ========================
+
+test-results/
